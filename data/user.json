@@ -1,0 +1,22 @@
+{
+    "username": "user1", 
+    "password": "pass123", 
+    "transactions": [
+        {
+            "amount": 1000,
+            "transactionDate": "10 Jan 2012",
+            "transactionType": "credit"
+        },
+        {
+            "amount": 2000,
+            "transactionDate": "13 Jan 2012",
+            "transactionType": "credit"
+        },
+        {
+            "amount": 500,
+            "transactionDate": "14 Jan 2012",
+            "transactionType": "debit"
+        }
+       
+    ]
+}
